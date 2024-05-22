@@ -8,3 +8,5 @@
 
 💬กลุ่มแชท: https://m.me/j/Aba8wJyt1eVvmqo-/ <br>
 🔥ดิสคอส: https://discord.com/invite/X6dtsFaJ
+# เมนูทางลัด
+วิกิคำสั่งผู้เล่น: https://github.com/Phanuphong2022/Masthegan-City
