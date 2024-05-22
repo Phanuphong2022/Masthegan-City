@@ -1,5 +1,5 @@
 # Masthegan-City
-ไอพีเซิร์ฟเวอร์: `154.16.156.35`<br>
+ไอพีเซิร์ฟเวอร์: `154.16.66.27`<br>
 พอร์ต: `31951`
 # ข้อมูลเกี่ยวเซิร์ฟเวอร์ Masthegan
 ![FB_IMG_1714099642997](https://github.com/Phanuphong2022/Masthegan-City/assets/94624110/cac74e63-51c9-4b14-82c9-9023c4e81bc0)
